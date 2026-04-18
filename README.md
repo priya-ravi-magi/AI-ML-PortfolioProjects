@@ -1,6 +1,7 @@
 # 🤖 AI & Machine Learning Portfolio
 
-Portfolio of data analytics and machine learning projects showcasing practical skills in data processing, visualization, and model development.
+This repository highlights my projects in Data Analytics, Machine Learning, and AI, and showcasing practical skills in data processing, data analysis, visualization, and predictive modeling.
+
 ---
 
 ## 📂 Projects
